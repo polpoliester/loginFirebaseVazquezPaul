@@ -4,4 +4,12 @@
     <string name="password">Contraseña</string>
     <string name="register">Registrar</string>
     <string name="enter">Entrar</string>
+    <string name="error">Error</string>
+
+    <!--Sign In Activity -->
+    <string name="registrate">¡Registrate!</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+
+    <!--Main Activity-->
+    <string name="logout">Cerrar sesión</string>
 </resources>

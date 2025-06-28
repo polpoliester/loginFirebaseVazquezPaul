@@ -75,3 +75,5 @@ google-services.json
 
 # Ignore local test reports
 **/build/reports/
+
+app/google-services.json
